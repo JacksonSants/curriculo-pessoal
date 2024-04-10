@@ -14,7 +14,7 @@
     }
 }
 /* Mobile 425px */
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 525px) {
     .container .h-name {
         margin-top: 10%;
         margin-bottom: 50px;
@@ -97,6 +97,11 @@
     .container .h-contato .h-title-contato h2 {
         margin-top: 5%;
         font-size: 22px;
+    }
+    
+    footer .footer {
+        display: block;
+        text-align: center;
     }
 }
 
@@ -200,5 +205,10 @@
     .container .h-contato .h-title-contato h2 {
         margin-top: 5%;
         font-size: 22px;
+    }
+
+    footer .footer {
+        display: block;
+        text-align: center;
     }
 }
